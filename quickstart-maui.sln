@@ -5,7 +5,16 @@ VisualStudioVersion = 17.0.31825.309
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{83AD7170-A732-4FB3-9EE3-15C09FF81D2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorApp", "Src\CalculatorApp\CalculatorApp.csproj", "{E58D7D72-6CED-4EA1-9A23-63413E5B94A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorApp", "Src\CalculatorApp\CalculatorApp.csproj", "{E58D7D72-6CED-4EA1-9A23-63413E5B94A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4E9F8B36-35F6-4AA0-B7F1-ECE11F799D0C}"
+	ProjectSection(SolutionItems) = preProject
+		.github\workflows\dotnet.yml = .github\workflows\dotnet.yml
+		.github\workflows\greetings.yml = .github\workflows\greetings.yml
+		.github\workflows\label.yml = .github\workflows\label.yml
+		README.md = README.md
+		.github\workflows\stale.yml = .github\workflows\stale.yml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
