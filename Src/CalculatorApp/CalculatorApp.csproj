@@ -10,10 +10,10 @@
 		<EnablePreviewMsixTooling>true</EnablePreviewMsixTooling>
 
 		<!-- Display name -->
-		<ApplicationTitle>CalculatorApp</ApplicationTitle>
+		<ApplicationTitle>Calculator App</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.CalculatorApp</ApplicationId>
+		<ApplicationId>app.calculator</ApplicationId>
 
 		<!-- Versions -->
 		<ApplicationVersion>1</ApplicationVersion>
